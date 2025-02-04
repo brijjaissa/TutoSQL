@@ -14,4 +14,4 @@ GROUP BY skills
 
 ORDER BY medium_salary DESC
 
-LIMIT 100
+LIMIT 50

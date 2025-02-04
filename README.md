@@ -27,7 +27,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
  ### 1. Top Paying Data Analyst Jobs
  To iderntify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the hogh paying opportunities in the field.
  
-'''
+ ```sql
  SELECT
      job_id,
      job_title,
@@ -48,7 +48,9 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
        salary_year_avg DESC
 
  LIMIT 10
-'''
+```
+ ### 1.1 : visualization
+![top paying](assets/top_paying_jobs_viz.jpg)
 
  # What I Learned
 
