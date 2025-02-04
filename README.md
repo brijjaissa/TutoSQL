@@ -50,7 +50,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
  LIMIT 10
 ```
  ### 1.1 : visualization
-![top paying](assets/top_paying_jobs_viz.jpg)
+![top paying](assets\top_paying_jobs viz.png) 
 
  # What I Learned
 
