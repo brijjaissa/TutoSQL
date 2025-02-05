@@ -105,8 +105,8 @@ ORDER BY demand_count DESC
 
 LIMIT 10
 ```
-### 3.1 : Visualization
-![demamded skills](assets\top_demaded_skills.gif)
+### 3.1: Visualization
+![demamded skills](assets\top_demaded_skills.png)
 
 ### 4 . Top paying skills
 This query highlights the skills associated with the highest salaries.
