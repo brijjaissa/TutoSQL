@@ -1,9 +1,10 @@
 # Introduction
-Dive into the data job market! Focusing on data analyst roles, this project explorer * top_paying jobs, *in_demand skills, and where high demand neets high salary in data analytics.
+Dive into the data job market! Focusing on data analyst roles, this project explorer * top_paying jobs, *in_demand skills, and where high demand meets high salary in data analytics.
+
  SQL queries ? Check them out here: [project_sql folder](/project_sql/)
 
  # Background
- Driven by a quest to navigate the dat analyst job market more effectively, this project was born from a desire to pinpoint top_paid and in_demand skills, streamlining others work to find optimal jobs.
+ Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top_paid and in_demand skills, streamlining others work to find optimal jobs.
 
  ### The questions to answer throw those SQL queries were:
  1. What are the top_paying data analyst jobs ?
@@ -15,11 +16,11 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
  # Tools I Used
  For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
- - **SQL:** the backbone of my analysis, allowing me to query the database and unearth critical insights.
- - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
- - **Visual Studio Code:** My go-to for database management and executing SQL queries.
- - **PowerBI:** My best tool for results visualization
- - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+ - **SQL :** the backbone of my analysis, allowing me to query the database and unearth critical insights.
+ - **PostgreSQL :** The chosen database management system, ideal for handling the job posting data.
+ - **Visual Studio Code :** My go-to for database management and executing SQL queries.
+ - **PowerBI :** My best tool for results visualization
+ - **Git & GitHub :** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
  # The Analysis
  Each query for this project aimed at investigating specific aspects of data analyst job market.
@@ -185,10 +186,10 @@ LIMIT 20
 
  Throughout this adventure, I've turbocharged my SQL toolKit with some serious firepower:
 
- - **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
- - **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
- - **Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionnable, insightful SQL queries.  
-
+ - **Complex Query Crafting :** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
+ - **Data Aggregation :** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
+ - **Analytical Wizardry :** Leveled up my real-world puzzle-solving skills, turning questions into actionnable, insightful SQL queries.  
+ - **Visualization Spirit :** Get a solid base of data preparation and visualization using PowerQuery and PowerBI
  # Conclusions  
  
  ### Closing thoughts
