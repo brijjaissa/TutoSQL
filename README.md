@@ -51,7 +51,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
  LIMIT 10
 ```
 ### 1.1 : Visualization
-![top paying](assets\top_paying_jobs.png)
+![top paying](assets/top_paying_jobs.png)
 
 ### 2 . Skills required for top paying jobs
 
@@ -87,7 +87,7 @@ ORDER BY
     salary_year_avg DESC
 ```
 ### 2.1 : Visualization
-![ required skills](assets\top_paying_job_skills.jpg)
+![ required skills](assets/top_paying_job_skills.jpg)
 
 ### 3 . Demanded skills for Data Analyst Jobs
 This query highlights the most demanded skills for Data Analyst Jobs.
@@ -129,7 +129,7 @@ ORDER BY medium_salary DESC
 LIMIT 50
 ```
 ### 4.1 : Visualization
-![top paying skills](assets\top_paying_skills.jpg)
+![top paying skills](assets/top_paying_skills.jpg)
 
 ### 5 . Optimal skills To learn
 This query highlights the optimal skills to learn for Data Analyst Jobs.
@@ -179,7 +179,7 @@ ORDER BY
 LIMIT 20
 ```
 ### 5.1 : Visualization
-![Optimal skills to learn](assets\optimal_skills_to_learn.jpg)
+![Optimal skills to learn](assets/optimal_skills_to_learn.jpg)
 
  # What I Learned
 
